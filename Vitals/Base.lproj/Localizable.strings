@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  Vitals
+
+  Created by Ayushi on 2025-10-26.
+  
+*/
+
+
+"History" = "History";
+"Dashboard" = "Dashboard";
+"Settings" = "Settings";
+"About us" = "About us";
+
+"English" = "English";
+"Arabic" = "Arabic";
+
+"Preparing your PDF…" = "Preparing your PDF…";
+"PDF wasn’t available yet. Please try again." = "PDF wasn’t available yet. Please try again.";
+"No Scan history found" = "No Scan history found";

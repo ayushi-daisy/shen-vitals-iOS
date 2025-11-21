@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  Vitals
+
+  Created by Ayushi on 2025-10-26.
+  
+*/
+
+"History" = "تاريخ";
+"Dashboard" = "لوحة القيادة";
+"Settings" = "إعدادات";
+"About us" = "معلومات عنا";
+
+"English" = "الإنجليزية";
+"Arabic" = "العربية";
+
+"Preparing your PDF…" = "تحضير ملف PDF الخاص بك...";
+"PDF wasn’t available yet. Please try again." = "لم يكن ملف PDF متاحًا بعد. يُرجى المحاولة مرة أخرى.";
+"No Scan history found" = "لم يتم العثور على سجل المسح";

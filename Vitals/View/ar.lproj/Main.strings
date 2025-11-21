@@ -1,0 +1,12 @@
+
+/* Class = "UINavigationItem"; title = "Dashboard"; ObjectID = "68d-zP-5of"; */
+"68d-zP-5of.title" = "Dashboard";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "B4y-hB-85D"; */
+"B4y-hB-85D.title" = "Settings";
+
+/* Class = "UISegmentedControl"; skY-AK-xym.segmentTitles[0] = "English"; ObjectID = "skY-AK-xym"; */
+"skY-AK-xym.segmentTitles[0]" = "English";
+
+/* Class = "UISegmentedControl"; skY-AK-xym.segmentTitles[1] = "Arabic"; ObjectID = "skY-AK-xym"; */
+"skY-AK-xym.segmentTitles[1]" = "Arabic";
