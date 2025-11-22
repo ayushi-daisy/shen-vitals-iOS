@@ -9,7 +9,7 @@ An iOS application for Vitals.
 To run ShenAI features, install the SDK from the [ShenAI website](https://shenai.com) and update the bundle files in:
 
 ```
-/Vitals/SDK/ios/ShenaiSDK.xcframework/
+/Vitals/SDK/ShenaiSDK.xcframework/
 ```
 
 Make sure to configure your API key in the `ShenManager` file:
